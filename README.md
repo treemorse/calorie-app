@@ -1,10 +1,10 @@
-# Calorie Counter Application
+# Calorie Counting Mobile App
 
 ## Abstract
 
-The Calorie Counter Application is designed to help users easily estimate the caloric content of their meals by analyzing food photographs. In today's health-conscious society, monitoring caloric intake is more important than ever. This app aims to provide a convenient and accurate tool for dietary tracking, helping users make informed decisions about their nutrition.
+The Calorie Counting Mobile App is designed to help users easily estimate the caloric content of their meals by analyzing food photographs. In today's health-conscious society, monitoring caloric intake is more important than ever. This app aims to provide a convenient and accurate tool for dietary tracking, helping users make informed decisions about their nutrition.
 
-The application uses machine learning to recognize various food items in a photo and an algorithm to estimate their volume and weight. Users can capture or upload images, and the app will provide detailed nutritional information. This report outlines the objectives, research, system requirements, implementation details, and results of the project, providing a comprehensive overview of the development and functionality of the Calorie Counter Application.
+The application uses machine learning to recognize various food items in a photo and an algorithm to estimate their volume and weight. Users can capture or upload images, and the app will provide detailed nutritional information. This report outlines the objectives, research, system requirements, implementation details, and results of the project, providing a comprehensive overview of the development and functionality of the app.
 
 ## Table of Contents
 1. [Introduction](#introduction)
